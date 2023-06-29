@@ -1,4 +1,4 @@
-module github.com/mwhittaker/templates/server
+module github.com/mwhittaker/templates
 
 go 1.20
 

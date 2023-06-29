@@ -1,8 +1,0 @@
-[serviceweaver]
-binary = "server"
-
-[single]
-listeners.lis = {address="localhost:9000"}
-
-[multi]
-listeners.lis = {address="localhost:9000"}
